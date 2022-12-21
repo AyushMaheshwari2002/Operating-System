@@ -3,7 +3,7 @@
 int main()
 {
     int n;
-    printf("Enter the no. of pages : ");
+    printf("Enter the length of reference string : ");
     scanf("%d", &n);
     
     int ref_str[n]; 
